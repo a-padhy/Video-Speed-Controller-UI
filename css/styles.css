@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #4c4c4c url("./ken-cheung-KonWFWUaAuk-unsplash.jpg");
+  background: #4c4c4c url("../images/ken-cheung-KonWFWUaAuk-unsplash.jpg");
   background-size: cover;
   font-family: sans-serif;
 }
